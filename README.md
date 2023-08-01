@@ -1,0 +1,1 @@
+This project was made for practice of Html and Css skills as well as getting comfortable working with GitHub
