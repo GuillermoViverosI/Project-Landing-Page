@@ -62,6 +62,27 @@ ul a {
   margin: 0;
 }
 
+.section-3 {
+  color: #1F2937;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 180px;
+  background-color: #e5e7eb;
+}
+
+.section-3 h5 {
+  /*font-family:;*/
+  margin: 0;
+  padding-top: 40px;
+  font-size: 36px;
+  font-style: italic;
+}
+
+.section-3 p {
+  align-self: flex-end;
+  font-weight: bold;
+}
+
 .cards {
   display: flex;
   justify-content: center;
